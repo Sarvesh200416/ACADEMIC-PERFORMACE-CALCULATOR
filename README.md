@@ -3,7 +3,10 @@
 A clean and minimalist web application that allows users to calculate their GPA, CGPA, and determine the number of classes required to maintain a minimum attendance percentage (e.g., 75%). Designed for simplicity, ease of use, and aesthetic appeal.
 
 ---
+##  Website
 
+Visit the project here : [https://vit-gpa-calc.vercel.app/](https://vit-gpa-calc.vercel.app/)
+---
 ## ✨ Features
 
 ### 📌 GPA Calculator
