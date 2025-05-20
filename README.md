@@ -104,10 +104,8 @@ Right-click → Open with Live Server
 ---
 
 ## 📷 Screenshots
-
-<!-- You can include screenshots here -->
-<!-- ![Screenshot1](screenshots/FrontPage.png) -->
-<!-- ![Screenshot2](screenshots/Functions.png) -->
+![Front Page](screenshots/FrontPage.png)
+![Function Page](screenshots/Functions.png)
 
 ---
 
